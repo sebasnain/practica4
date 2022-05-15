@@ -1,0 +1,17 @@
+*{
+    color: #1D324d;
+    background-color: #f1eadc;
+}
+body{
+    
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 27px;
+    text-align: left;
+}
+
+.miParrafo {
+    font-style: italic;
+}
+h1{
+    text-decoration: underline;
+}
